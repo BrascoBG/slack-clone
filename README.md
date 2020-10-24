@@ -1,3 +1,11 @@
+# Slack Clone
+
+Single Page Application with chat functionality built with ReactJS, Context API, React Router, Firebase.
+
+### ScreenShots
+
+...
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

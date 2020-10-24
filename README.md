@@ -2,6 +2,8 @@
 
 Single Page Application with chat functionality built with ReactJS, Context API, React Router, Google Authentication, Firebase.
 
+[Link Live Demo](https://slack-clone-d2718.web.app)
+
 ### ScreenShots
 
 ![Screenshot](https://github.com/BrascoBG/slack-clone/blob/main/src/assets/slack.jpg?raw=true)
